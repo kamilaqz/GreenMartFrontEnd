@@ -1,5 +1,5 @@
 # GreenMart
-Este é um projeto React com uma interface interativa para ser conectada a um backend Node.js. O projeto inclui as seguintes funcionalidades:
+Este é um projeto React com uma interface interativa para ser conectada ao backend Node.js que se encontra neste mesmo perfil. O projeto inclui as seguintes funcionalidades:
 
 Página de Login: Os usuários podem fazer login fornecendo suas credenciais de login.
 
