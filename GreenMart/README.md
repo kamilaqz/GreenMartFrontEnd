@@ -19,4 +19,4 @@ Editar Produto: Os usuários autenticados podem editar informações de produtos
 Certifique-se de ter o Node.js e o npm instalados em sua máquina. Você pode baixá-los em https://nodejs.org/.
 
 # Contato
-Para qualquer dúvida ou sugestão, entre em contato conosco em kamila.queiroz@maisunifacisa.com.br
+Para qualquer dúvida ou sugestão, entre em contato em kamila.queiroz@maisunifacisa.com.br
